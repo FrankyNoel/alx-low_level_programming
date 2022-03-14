@@ -1,1 +1,1 @@
-first program in C
+first task in c
